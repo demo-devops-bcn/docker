@@ -13,7 +13,7 @@ ARG BACKSTAGE_PROCESSOR_NAME
 ARG LOGS_RECEIVER_CLONE_URL="https://github.com/v1v/opentelemetry-github-actions-log-receiver.git"
 ARG TRACES_RECEIVER_CLONE_URL="https://github.com/v1v/opentelemetry-github-actions-receiver.git"
 ARG ANNOTATIONS_RECEIVER_CLONE_URL="https://github.com/v1v/opentelemetry-github-actions-annotations-receiver.git"
-ARG BACKSTAGE_PROCESSOR_CLONE_URL="https://github.com/demo-devops-bcn/opentelemetry-backstage-processor.git"
+ARG BACKSTAGE_PROCESSOR_CLONE_URL="https://github.com/v1v/opentelemetry-backstage-processor.git"
 
 ARG LOGS_RECEIVER_REF="ef11b639ed5a30fe8ddda6e9d28c9bc6e0001904"
 ARG TRACES_RECEIVER_REF="aef60873a6a7cd1aaf26a532febe5db1ce502071"
