@@ -15,7 +15,7 @@ ARG TRACES_RECEIVER_CLONE_URL="https://github.com/v1v/opentelemetry-github-actio
 ARG ANNOTATIONS_RECEIVER_CLONE_URL="https://github.com/v1v/opentelemetry-github-actions-annotations-receiver.git"
 ARG BACKSTAGE_PROCESSOR_CLONE_URL="https://github.com/v1v/opentelemetry-backstage-processor.git"
 
-ARG LOGS_RECEIVER_REF="ef11b639ed5a30fe8ddda6e9d28c9bc6e0001904"
+ARG LOGS_RECEIVER_REF="7b648f64f0570a7622a3e6d04f3a618e88791612"
 ARG TRACES_RECEIVER_REF="aef60873a6a7cd1aaf26a532febe5db1ce502071"
 ARG ANNOTATIONS_RECEIVER_REF="766c49049a48ca04940fbb4cb11d387d6a553d8d"
 ARG BACKSTAGE_PROCESSOR_REF="7ff8cd8be681b19e5da383ac867419096493f128"
